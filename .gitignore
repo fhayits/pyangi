@@ -1,0 +1,55 @@
+# __pycache__ va .pyc fayllar
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pip/
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/
+
+# MacOS va Linux tizimlarida hosil bo‘ladigan fayllar
+.DS_Store
+Thumbs.db
+
+# VSCode editori uchun
+.vscode/
+
+# PyCharm IDE
+.idea/
+
+# Log fayllar
+*.log
+
+# .env fayli (maxfiy ma’lumotlar uchun, masalan, parollar)
+.env
+.env.*
+
+# bazalar va migratsiyalar
+*.sqlite3
+*.db
+migrations/
+__migrations__/
+
+# pytest va coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# dist va build fayllar (package yaratishda)
+build/
+dist/
+*.egg-info/
+
+# mypy, pyright
+.mypy_cache/
+.pyright/
+
+# local config
+*.local
