@@ -4,7 +4,9 @@
 # pyangi: python dasturchilari uchun kichik wsgi aplication
 
 ![Purpose](https://img.shields.io/badge/purpose-learning-green)
-![PyPi - version](https://img.shields.io/badge/pyangi)
+[![PyPI](https://img.shields.io/pypi/v/pyangi)](https://pypi.org/project/pyangi/)
+
+
 
 pyangi amaliyot uchun qilingan gunicorn bilan run qilinadi 
 
