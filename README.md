@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # pyangi
-=======
+
 # pyangi: python dasturchilari uchun kichik wsgi aplication
 
 ![Purpose](https://img.shields.io/badge/purpose-learning-green)
